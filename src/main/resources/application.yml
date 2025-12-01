@@ -1,0 +1,10 @@
+app:
+  name: "John Doe"
+  regNo: "REG12347"
+  email: "john@example.com"
+  generateWebhookUrl: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+  testWebhookPath: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+
+logging:
+  level:
+    root: INFO

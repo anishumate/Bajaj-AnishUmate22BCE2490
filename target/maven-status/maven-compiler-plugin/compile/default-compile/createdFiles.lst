@@ -1,0 +1,5 @@
+com/example/webhookstarter/dto/GenerateWebhookRequest.class
+com/example/webhookstarter/DemoApplication.class
+com/example/webhookstarter/service/SQLSolver.class
+com/example/webhookstarter/dto/GenerateWebhookResponse.class
+com/example/webhookstarter/service/StartupRunner.class
